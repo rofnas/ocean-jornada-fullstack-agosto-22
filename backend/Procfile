@@ -1,10 +1,1 @@
 web: npm start --prefix backend
-/*
-{
-    "name": "ocean-jornada-fullstack-agosto-22",
-    "version": "1.0.0",
-    "scripts": {
-        "postinstall": "npm install --prefix backend"
-    }
-}
-*/
